@@ -51,7 +51,7 @@ contact me :- [HM MODS](https://t.me/hmrequestbot)
                                                                          
 ## Deploying on Heroku
 Click on the below button 👇👇👇👇
-<p><a href="https://heroku.com/deploy"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/AsuranJ/HM-LEECH-ZONE-BOT"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 
 ## Variable Explanations 👇
